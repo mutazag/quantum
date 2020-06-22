@@ -19,7 +19,11 @@
 Programs  here use a simulator to mimic quantum behavior. A simulator is can be used to experiment with quantum algorithms before running the program on a quantum computer. Azure Quantum, a quantum computing service that runs on Azure, can then be used to run the program on quantum hardware. 
 
 
+<<<<<<< HEAD
 ![quantum_execution](images/6-quantum-execution-info.png)
+=======
+![quantum_execution](images\6-quantum-execution-info.png)
+>>>>>>> 64a80cfbe007590d2872320a0f9b31a34af170d3
 
 * simulators: simulate Q# program on local computer or on azure compute
 * resource estimators: estimate the resources required to rn a Q# program on a quantum computer
@@ -29,7 +33,11 @@ Quantum-inspired solutions: solve large, complex optimisation problems at scale 
 
 Solvers emulate certain processes from quantum physics by using classical hardware that's available today.
 
+<<<<<<< HEAD
 ![quantum_hardware](images/6-azure-quantum.png)
+=======
+![quantum_hardware](images\6-azure-quantum.png)
+>>>>>>> 64a80cfbe007590d2872320a0f9b31a34af170d3
 
 * trapped ion quantum hardware from IonQ and Honeywell. 
 * quantum hardware built from superconducting circuits from QCI.
